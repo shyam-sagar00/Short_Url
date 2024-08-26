@@ -1,0 +1,3 @@
+First of all , to generate a short url we'll start with shortening of the url using code and then later on we can think about application , its scaling and everything. 
+
+Ok lets start coding and see !!!!
